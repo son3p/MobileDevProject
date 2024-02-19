@@ -1,0 +1,11 @@
+{
+  "appId": "com.hmyllari.employees",
+  "appName": "employees",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
